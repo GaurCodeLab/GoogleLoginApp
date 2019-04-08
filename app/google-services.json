@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "713916129435",
+    "firebase_url": "https://loginpage-db3da.firebaseio.com",
+    "project_id": "loginpage-db3da",
+    "storage_bucket": "loginpage-db3da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713916129435:android:7cccee899978eb62",
+        "android_client_info": {
+          "package_name": "com.gaur.logindemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszAnowxwtW3PV4ann-7o1HIr6roUxt9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713916129435-ibcimm5lsasse40nipe051bu9l49uivc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
